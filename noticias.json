@@ -1,6 +1,14 @@
-{
-  "noticias": [
-    "Mega Sena (Concurso 1234): 05, 12, 19, 27, 33, 44",
-    "Clima em Fortaleza: 29.4°C, Céu limpo"
-  ]
-}
+[
+  {
+    "id": "anuncio1",
+    "tipo": "imagem",
+    "url": "https://meusite.com/anuncios/imagem1.jpg",
+    "duracao": 10
+  },
+  {
+    "id": "anuncio2",
+    "tipo": "video",
+    "url": "https://meusite.com/anuncios/video1.mp4",
+    "duracao": 30
+  }
+]
